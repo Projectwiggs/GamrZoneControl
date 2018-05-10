@@ -1,0 +1,11 @@
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\bin\Debug\Gamrzone.EF.dll.config
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\bin\Debug\Gamrzone.EF.dll
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\bin\Debug\Gamrzone.EF.pdb
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\bin\Debug\EntityFramework.dll
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\bin\Debug\EntityFramework.xml
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\obj\Debug\Gamrzone.EF.csprojResolveAssemblyReference.cache
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\obj\Debug\Gamrzone.EF.csproj.CoreCompileInputs.cache
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\obj\Debug\Gamrzone.EF.dll
+C:\Users\Austi\Documents\GamrZoneControl\Gamrzone\Gamrzone.EF\obj\Debug\Gamrzone.EF.pdb
