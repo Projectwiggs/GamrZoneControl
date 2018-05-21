@@ -26,6 +26,11 @@ namespace Gamrzone.EF
         [Range(minimum:0, maximum:255)]
         public byte Permissions { get; set; }
     }
+    [MetadataType(typeof(CategoryMetadata))]
+    public partial class Category
+    {
+
+    }
     #endregion
 
     #region Posts Metadata
@@ -46,6 +51,11 @@ namespace Gamrzone.EF
         public bool IsLocked { get; set; }
 
         public byte Permissions { get; set; }
+    }
+    [MetadataType(typeof(PostMetaData))]
+    public partial class Post
+    {
+
     }
     #endregion
 
@@ -71,6 +81,11 @@ namespace Gamrzone.EF
 
         public bool IsBanned { get; set; }
     }
+    [MetadataType(typeof(UserMetadata))]
+    public partial class User
+    {
+
+    }
     #endregion
 
     #region Roles Metadata
@@ -95,10 +110,20 @@ namespace Gamrzone.EF
         [Range(minimum: 0, maximum: 100, ErrorMessage = "Delegations must be 0-100")]
         public byte DeletePower { get; set; }
     }
+    [MetadataType(typeof(RoleMetadata))]
+    public partial class Role
+    {
+
+    }
     #endregion
 
     #region Events Metadata
     public class EventMetadata
+    {
+
+    }
+    [MetadataType(typeof(EventMetadata))]
+    public partial class Event
     {
 
     }
